@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'trebucbd';
+	src: url('./trebucbd.eot');
+	src: local('trebucbd'), url('./trebucbd.woff') format('woff'), url('./trebucbd.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7912">Text with this font applied</p> */
+.fontsforweb_fontid_7912 {
+	font-family: 'trebucbd' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
